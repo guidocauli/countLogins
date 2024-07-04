@@ -12,4 +12,4 @@ Usage: ./countlogins.sh -s -t -f -l -d  > filename.csv
      -d             debug mode
 ~~~
 
-As you can see, you can redirect output into a CSV file in order to import data into any common spreadsheet.
+It is preferable to redirect output into a CSV file in order to import data into any common spreadsheet.
